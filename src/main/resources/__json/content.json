@@ -1,0 +1,137 @@
+[
+  {
+    "id": "1827ace6-e1a4-44a0-ae5b-4a93d31c5f0c",
+    "memberId":1111,
+    "statusType":"INACTIVE",
+    "givenName":"Michael",
+    "familyName":"Brown",
+    "dateOfBirth":"2021-02-02",
+    "address":{
+      "city":"Yonkers",
+      "state":"NY",
+      "country":"US",
+      "postalCode":"111111"
+    },
+    "products":[
+      {
+        "code":"NY543",
+        "name":"Annual Benefit",
+        "type":"DISCOUNT"
+      },
+      {
+        "code":"NM347",
+        "name":"Monthly Benefit",
+        "type":"GIFT"
+      }
+    ],
+    "creationMillis":1612272859657
+  },
+  {
+    "id": "8a97ec50-3ef5-4b43-8da4-e77c53b49b60",
+    "memberId":3333,
+    "statusType":"ACTIVATED",
+    "givenName":"Michael",
+    "familyName":"Green",
+    "dateOfBirth":"2019-02-02",
+    "address":{
+      "city":"Boston",
+      "state":"AL",
+      "country":"US",
+      "postalCode":"555555"
+    },
+    "products":[
+      {
+        "code":"NY313",
+        "name":"Annual Benefit",
+        "type":"DISCOUNT"
+      },
+      {
+        "code":"NM357",
+        "name":"Monthly Benefit",
+        "type":"NONE"
+      }
+    ],
+    "creationMillis":1612272859657
+  },
+  {
+    "id": "b5ec4af2-1c2f-47cd-ba1c-9280f7b7fbcb",
+    "memberId":2222,
+    "statusType":"ACTIVATED",
+    "givenName":"Michael",
+    "familyName":"Brown",
+    "dateOfBirth":"2020-02-02",
+    "address":{
+      "city":"Yonkers",
+      "state":"AZ",
+      "country":"US",
+      "postalCode":"222222"
+    },
+    "products":[
+      {
+        "code":"RT313",
+        "name":"Annual Benefit",
+        "type":"GIFT"
+      },
+      {
+        "code":"TB357",
+        "name":"Daily Benefit",
+        "type":"DISCOUNT"
+      }
+    ],
+    "creationMillis":1612272859457
+  },
+  {
+    "id": "b41f124b-3c2e-4e2f-9f2f-d4e287ad48bd",
+    "memberId":4444,
+    "statusType":"RETIRED",
+    "givenName":"Rose",
+    "familyName":"Brown",
+    "dateOfBirth":"2017-02-02",
+    "address":{
+      "city":"Seattle",
+      "state":"AR",
+      "country":"US",
+      "postalCode":"778545"
+    },
+    "products":[
+      {
+        "code":"RT313",
+        "name":"Unplanned Benefit",
+        "type":"NONE"
+      },
+      {
+        "code":"TB357",
+        "name":"Daily Benefit",
+        "type":"DISCOUNT"
+      }
+    ],
+    "creationMillis":1612272859637
+  },
+  {
+    "id": "e861eb0b-ad72-47db-ba7f-e7b5faf37072",
+    "memberId":5555,
+    "statusType":"INACTIVE",
+    "givenName":"Martin",
+    "familyName":"White",
+    "dateOfBirth":"2015-02-02",
+    "address":{
+      "city":"Seattle",
+      "state":"AR",
+      "country":"US",
+      "postalCode":"778545"
+    },
+    "products":[
+      {
+        "code":"RT313",
+        "name":"Unplanned Benefit",
+        "type":"NONE"
+      },
+      {
+        "code":"TB357",
+        "name":"Daily Benefit",
+        "type":"DISCOUNT"
+      }
+    ],
+    "creationMillis":1612272859654
+  }
+]
